@@ -10,4 +10,14 @@
  */
 public class maven2 {
     
+    
+     public static void main (String [] args){
+    
+    
+    Maven1 m = new Maven1();
+    
+    m.call();
+    
+    }
+    
 }

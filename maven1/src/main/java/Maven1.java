@@ -11,11 +11,9 @@
 public class Maven1{
     
     
-    public static void main (String [] args){
-    
-    
-    System.out.println("Hello");
-    
-    }
+   public void call(){
+   
+   System.out.println("Hello");
+   }
     
 }
